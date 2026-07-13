@@ -1,2 +1,12 @@
+# Disk images (test data)
 MacBASIC.335.dsk
+
+# Cargo build output
+/target/
+/mkfs-mfs/target/
+
+# makepkg artifacts
 PKGBUILD
+*.pkg.tar.zst
+*.pkg.tar.zst.sig
+/pkg/
