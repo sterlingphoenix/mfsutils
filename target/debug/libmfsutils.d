@@ -1,0 +1,1 @@
+/home/sterling/src/mfsutils/target/debug/libmfsutils.rlib: /home/sterling/src/mfsutils/src/binhex.rs /home/sterling/src/mfsutils/src/commands.rs /home/sterling/src/mfsutils/src/lib.rs /home/sterling/src/mfsutils/src/macbinary.rs /home/sterling/src/mfsutils/src/mfs.rs /home/sterling/src/mfsutils/src/mount.rs /home/sterling/src/mfsutils/src/util.rs

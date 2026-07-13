@@ -1,0 +1,15 @@
+[package]
+name = "mfsutils"
+version = "0.1.0"
+edition = "2021"
+description = "hfsutils-style tools for reading Macintosh MFS disk images: list files and extract them with resource forks intact."
+license = "MIT"
+
+[dependencies]
+anyhow = "1"
+
+[target.'cfg(unix)'.dependencies]
+libc = "0.2"
+
+[workspace]
+exclude = ["mkfs-mfs"]
